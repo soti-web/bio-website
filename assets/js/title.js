@@ -1,17 +1,17 @@
 // Array containing different titles to cycle through
 var titles = [
   "@",
-  "@Y",
-  "@Yo",
-  "@Yog",
-  "@Yogh",
-  "@Yoghu",
-  "@Yoghur",
-  "@Yoghurt",
-  "@Yoghurt 1",
-  "@Yoghurt 13",
-  "@Yoghurt 133",
-  "@Yoghurt 1337"
+  "@D",
+  "@De",
+  "@Dev",
+  "@Dev.",
+  "@Dev.M",
+  "@Dev.Mu",
+  "@Dev.Muh",
+  "@Dev.Muham",
+  "@Dev.Muhama",
+  "@Dev.Muhamad",
+  "@Dev.Muhamad 1991"
 ];
 
 // Function to change the title periodically
